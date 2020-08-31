@@ -20,12 +20,12 @@
     <td>Terceiro mundo do curso explica as estruturas de dados, funções, módulos e tratamento de erros.</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/RayaneGomes97/Estudos_Python3/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/Lista%20de%20Exercicios%20-%20Mundo%201.md"> Lista de desafios </a></td>
+    <td><a href = "https://github.com/RayaneGomes97/Estudos_Python-welerson-/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/Lista%20de%20Exercicios%20-%20Mundo%201.md"> Lista de desafios </a></td>
     <td>link 2 </td>
     <td>link 3</td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/RayaneGomes97/Estudos_Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201"> Resolução </a></td>
+    <td><a href = "https://github.com/RayaneGomes97/Estudos_Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201https://github.com/RayaneGomes97/Estudos_Python-welerson-/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/README.md"> Resolução </a></td>
     <td>resolucao 2</td>
     <td>resolucao 3</td>
   </tr>
