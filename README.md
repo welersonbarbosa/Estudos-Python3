@@ -27,7 +27,7 @@
 	<li><a href = "#topico4">  Alterar título do tópico 4 </a> </li>
 	<li><a href = "#topico4">  Alterar título do tópico 5 </a> </li>
         <li><a href = "#modulos"> Utilizando módulos</a> </li>
-        <li><a href = "#erro"> Importando som [CÓDIGO COM ERRO] </a> </li>
+        <li><a href = "#erro"> Tocando .mp3 em python [CÓDIGO COM ERRO] </a> </li>
         <li><a href = "#strings"> Manipulando strings  </a> </li>
         <li><a href = "#coresterminal"> Implementando cores no terminal </a> </li>	     
      </ol>
