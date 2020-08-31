@@ -21,19 +21,19 @@
   <tr>
     <td> 
      <ol> 
-	<li><a href = "#livros"> Livros recomendados </a> </li>
-	<li><a href = "#introducao"> Introdução a Python </a> </li>
-        <li><a href = "#nomenclaturas"> Regras e convenções para nomenclaturas </a> </li>
+	<li><a href = "#topico1">  Alterar título do tópico 1 </a> </li>
+	<li><a href = "#topico2">  Alterar título do tópico 2 </a> </li>
+	<li><a href = "#topico3">  Alterar título do tópico 3 </a> </li>
+	<li><a href = "#topico4">  Alterar título do tópico 4 </a> </li>
+	<li><a href = "#topico4">  Alterar título do tópico 5 </a> </li>
         <li><a href = "#modulos"> Utilizando módulos</a> </li>
         <li><a href = "#erro"> Importando som [CÓDIGO COM ERRO] </a> </li>
         <li><a href = "#strings"> Manipulando strings  </a> </li>
-        <li><a href = "#condicao"> Laços condicionais </a> </li>
         <li><a href = "#coresterminal"> Implementando cores no terminal </a> </li>	     
      </ol>
      </td><td> 
      <ol> 
-        <li> <a href= "https://github.com/RayaneGomes97/Estudos_Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara"> Exercicios - Curso em vídeo </a> </li>
-        <li> <a href= "https://github.com/RayaneGomes97/Estudos_Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Exerc%C3%ADcios%20-%20Python.Org/Estrutura%20Sequencial"> Exercícios - Python Brasil </a> </li>
+        <li> <a href= "https://github.com/RayaneGomes97/Estudos-Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara"> Exercicios - Curso em vídeo </a> </li>
      </ol>
     </tr>
 </table>   <br>
@@ -42,97 +42,27 @@
 
 
 <!--------------------------------------------------------------------------------------------------- -->
-<a name="livros"></a>
-<h2><a href="#home"> 💻</a> Livros que irão te auxiliar em Python3 </h2>
+<a name="topico1"></a>
+<h2><a href="#home"> 💻</a> Alterar título do tópico 1 </h2>
 
-<ol>
-	<li> Automatize Tarefas Maçantes com Python: Programação prática para verdadeiros iniciantes. </li>
-	<li> Python Fluente: Programação clara, concisa e eficaz. </li> 
-	<li> Pense Em Python: Pense Como Um Cientista da Computação. </li> 
-</ol>
+<p> Acrescentar um conteudo aqui </>
+<!--------------------------------------------------------------------------------------------------- -->
+<a name="topico2"></a>
+<h2><a href="#home"> 💻</a> Alterar título do tópico 2 </h2>
+
+<p> Acrescentar um conteudo aqui </>
+<!--------------------------------------------------------------------------------------------------- -->
+<a name="topico3"></a>
+<h2><a href="#home"> 💻</a> Alterar título do tópico 3 </h2>
 
 <!--------------------------------------------------------------------------------------------------- -->
-<a name="introducao"></a>
-<h2><a href="#home"> 💻</a> Introdução </h2>
-
-<p> O Python é uma linguagem interpretada e fracamente tipada (não precisamos declarar o tipo de uma variável, por exemplo). 
-Além disso, é uma linguagem de propósito geral. Portanto, pode ser utilizada para solucionar qualquer tipo de problema, o qual pode ser atendido com um sistema desktop, para a web ou mobile. </p>
-
-<p> É uma linguagem que prioriza a legibilidade do código, combinando uma sintaxe concisa e clara. Com seus recursos poderosos de sua biblioteca padrão e por muitos módulos e frameworks, apostar no Python em 2020 poderá ser uma excelente escolha, </p>
-
-<p> Além de ter uma vocação original para tornar os programas mais legíveis, com uma linguagem mais simples quando comparada a outras. O que faz com que seja uma boa alternativa aos que possuem dificuldades cm outras linguagens consolidadas no mercado. </p> 
+<a name="topico4"></a>
+<h2><a href="#home"> 💻</a> Alterar título do tópico 4 </h2>
 
 <!--------------------------------------------------------------------------------------------------- -->
-<a name="nomenclaturas"></a>
-<h2><a href="#home"> 💻</a> Regras e convenções para nomenclatura</h2>
+<a name="topico5"></a>
+<h2><a href="#home"> 💻</a> Alterar título do tópico 5 </h2>
 
-<p> Todo arquivo de código deve iniciar com comentários de início, que devem conter informações
-a respeito da classe/interface, como por exemplo, nome da classe, informações de versão,
-data e autor. </p>
-
-<table><ul>
-<li> Todos os comandos são funções, consequentemente todas as funções exigem o uso de parênteses. </li>
-<li>  O delimitador padrão são as aspas, onde poderão ser simples ou dupla. Porém, <strong> a maioria dos desenvolvedores utilizam aspas simples.</strong>  </li>	
-<li> Em boa parte das lingaugens as linhas de códigos devem terminar com ponto e vírgula. <strong> Em python3 isso é opcional.</strong> </li>
-</table></ul>
-<!-- --------------------------------------- -->
-<h3> Nome de classes </h3>
-
-<ul>
-  <li> Começar com letra MAIÚSCULA. </li>
-  <li> Sem caracteres especiais, apenas os caracteres $ ou _</li>
-  <li> Em nomes compostos usar a primeira  da SEGUNDA palavra e posteriores em maiúsculas </li>
-</ul>
-
-<blockquote>
-  <p>Ex: MinhaClasse, primeiraClasse Projeto_Teste</p>
-</blockquote>
-<!-- --------------------------------------- -->
-<h3> Nomes de variáveis </h3>
-
-<ul>
-  <li> Começar com letras minúsculas.</li>
-  <li> Sem caracteres especiais, apenas os caracteres $ ou _</li>
-  <li> Em nomes compostos usar a primeira  da SEGUNDA palavra e posteriores em maiúsculas </li>
-</ul>
-
-<blockquote>
-  <p> Ex: valor_total meuProjeto </p>
-</blockquote>
-<!-- --------------------------------------- -->
-<h3> Nome de pacotes e módulos </h3>
-
-<ul>
-  <li> Começar com letras minúsculas.</li>
-  <li> Em nomes compostos usar a primeira  da SEGUNDA palavra e posteriores em maiúsculas </li>
-</ul>
-	
-<blockquote>
-  <p>Ex: modelo pacote controle conexaoBanco</p>
-</blockquote>
-<!-- --------------------------------------- -->
-<h3> Métodos (Funções) </h3>
-
-
-<ul>
-  <li> Começar com letras minusculas.</li>
-  <li> Em nomes compostos usar a primeira letras da segunda palavra e posteriores em maiúsculas </li>
-</ul>
-
-<blockquote>
-  <p>Ex: enviarEmail(), cadastrarUsuario()</p>
-</blockquote>
-<!-- --------------------------------------- -->
-<h3> Constantes </h3>
-
-<ul>
-  <li> Devem ser escritas totalmente em letras MAIÚSCULAS </li>
-  <li> Em nomes compostos usar _ para separar. </li>
-  <li> Nunca começar com números. </li>
-</ul>
-<blockquote>
-  <p>Ex: PI, VALOR_MAXIMO TESTANDO_JOGO TAMANHO</p>
-</blockquote>
 
 
 <!--------------------------------------------------------------------------------------------------- -->
@@ -449,25 +379,7 @@ pygame.event.wait()
     <td>13</td>
   </tr>
 </tbody>
-</table>
-<!--------------------------------------------------------------------------------------------------- -->
-<a name="condicao"></a>
-<h2><a href="#home"> 💻</a> Laços condicionais </h2>
-
-<h3> If  </h3>
-
-<p> Falando de comportamento de condições na linguagem, sua principal característica é a identação, é dessa forma que os blocos de instruções são identificado e seguem uma sequência correta. Exemplo: </p>
-
-```
-tempo = int('Quantos anos tem seu carro?'))
-
-if tempo <=3:
-    print('Carro novo!')
-
-else:
-    print('carro velho!')
-print('--FIM--')
-```
+</table
 <!--------------------------------------------------------------------------------------------------- -->
 <a name="condicao"></a>
 <h2><a href="#coresterminal"> 💻</a> Implementando cores no terminal </h2>
