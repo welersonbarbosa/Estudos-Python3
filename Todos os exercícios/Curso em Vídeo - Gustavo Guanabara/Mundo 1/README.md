@@ -73,6 +73,7 @@ v<!-----------------------------------------------------------------------------
 	  <td align="center"><a href="https://github.com/RayaneGomes97/Estudos-Python3/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/Resolu%C3%A7%C3%A3o/Desafio%20005.py"> Consultar  </td></tr><tr>
 <!----------------------------------------------------------------------------------------------- --->
 	  <td align="center">6</td>
+	  <td align="center"><img src="https://github.com/RayaneGomes97/Imagens/blob/master/Status%20para%20exercicios/ok.png"></td> <!-- ALTERAR O STTUS ok FINAL DO LINK -->
 	  <td align="center"><a href="https://github.com/RayaneGomes97/Estudos-Python3/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/Resolu%C3%A7%C3%A3o/Desafio%20006.py"> Consultar  </td></tr><tr>
 <!----------------------------------------------------------------------------------------------- --->
 	  <td align="center">7</td>
