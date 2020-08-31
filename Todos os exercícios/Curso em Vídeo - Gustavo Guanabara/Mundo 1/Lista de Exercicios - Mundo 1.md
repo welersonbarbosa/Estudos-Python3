@@ -14,7 +14,7 @@
 <a name = "home"></a>
 
 
-<h1> [Desafios]Lista de Desafios 1  </h1>	
+<h1> [LISTA] Desafios - Mundo 1 </h1>	
 <!---------------------------------------------------------------------------------------------------- -->		
 <h3><a href="#home"> 💻</a>  Exercício 1 </h3>
 
