@@ -11,7 +11,7 @@
 <td><a href= "https://github.com/RayaneGomes97/Estudos-Python3/blob/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%202/Lista%20de%20Exercicios%20-%20Mundo%202.md"> Voltar a lista de exercícios </a></td>
 </tr></table> 
 
-<h1> [RESOLUÇÃO] Status dos exercícios - Curso em vídeo  </h1>
+<h1> [RESOLUÇÃO] Desafios - Mundo 2  </h1>
 
 
 <!--- ------------------------- SIGNIFICADO DA TABELA ------------------------- --> 
