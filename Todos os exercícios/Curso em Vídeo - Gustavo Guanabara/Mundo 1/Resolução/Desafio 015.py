@@ -1,4 +1,5 @@
-# Conversor de temperaturas
-gc = float(input("Digite a temperatura em grau celsius ºC: "))
-f = (gc * 9/5) + 32
-print("A temperatura de {}ºC corresponde a {} Fº! ".format(gc,f))
+print("Locadora de veículos")
+km = float(input("Quantos km foi percorrido com o veiculo?: "))
+dias = int(input("Por quantos dias você utilizou o carro?: "))
+r = (km * 0.15 ) + (dias * 60)
+print(" Você percorreu {} km por {} dias e o valor total a pagar será de R$ {}".format(km,dias,r))
