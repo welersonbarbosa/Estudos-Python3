@@ -13,7 +13,7 @@
 <td><a href= "https://github.com/RayaneGomes97/Estudos-Python3/tree/master/Todos%20os%20exerc%C3%ADcios/Curso%20em%20V%C3%ADdeo%20-%20Gustavo%20Guanabara/Mundo%201/Resolu%C3%A7%C3%A3o"> Adicionar uma nova resolução </a></td>
 </tr></table> 
 
-<h1> [RESOLUÇÃO] Desafios - Mundo - 1  </h1>
+<h1> [RESOLUÇÃO] Desafios - Mundo 1  </h1>
 
 
 <!--- ------------------------- SIGNIFICADO DA TABELA ------------------------- --> 
